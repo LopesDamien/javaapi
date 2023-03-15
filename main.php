@@ -10,4 +10,7 @@
     <button onclick="mafunction()">Clique</button>
 </body>
 <script src='main.js'></script>
+<script>toto();</script>
+<script>UpdateDiv();</script>
+
 </html>
